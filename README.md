@@ -15,7 +15,7 @@ This site can be used as a breif introduction for how to optimize the online pre
  
 ![screen shot of the top half of the webpage, listing the company name, Horiseon, the three topics, and an image of four people in a meeting room](/assets/images/challenge-screenshot.jpg)
 
-URL:
+link to deployed application: https://genmla.github.io/NU-Coding-Challenge-01/
 
 ## Credits
 
